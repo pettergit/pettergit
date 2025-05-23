@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8c52ff&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8c52ff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Petter+Lumertz;+tenho+38+anos;+sou+Cientista+de+Dados;+gaúcho+de+Gravataí´/RS+%F0%9F%A7%89+-+Brasileiro;+Seja+bem-vindo!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8c52ff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Petter+Lumertz;+tenho+38+anos;+sou+Cientista+de+Dados;+gaúcho+de+Gravataí/RS+%F0%9F%A7%89+-+Brasileiro;+Seja+bem-vindo!)](https://git.io/typing-svg)
 
 
 
