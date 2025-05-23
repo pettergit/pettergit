@@ -5,9 +5,13 @@
 Olá! Eu sou o Petter Lumertz.
 Sou um ex-profissional da saúde com mais de 10 anos de experiência atuando em emergência, UTI e resgate médico. Hoje, estou trilhando um novo e empolgante caminho na área de Tecnologia da Informação e Ciência de Dados — movido pela curiosidade, vontade de aprender e de resolver problemas reais com o poder dos dados.
 
+
 🎓 Estudante de Ciências da Computação (2º semestre na Uninter)
+
 📊 Aluno de Ciência de Dados pela EBAC
+
 🧩 Apaixonado por desenvolvimento no-code com Bubble.io
+
 🧠 Sempre explorando novas ideias, ferramentas e formas de pensar
 _____________________________________________________________________
 
@@ -15,9 +19,17 @@ _____________________________________________________________________
 Depois de uma década salvando vidas em ambientes de alta pressão, percebi que queria ampliar meu impacto — agora através da tecnologia e dos dados. Acredito que a tecnologia tem o poder de transformar sistemas, melhorar decisões e gerar inovação em todas as áreas, inclusive na saúde.
 
 🚀 O que estou aprendendo e construindo
+
+
 Análise de Dados e Machine Learning
+
+
 Python, SQL e Power BI
+
+
 Aplicações no-code com Bubble.io
+
+
 Projetos pessoais e colaborativos
 ____________________________________________________________________
 
